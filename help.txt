@@ -1,0 +1,14 @@
+node app.js
+npm - node package manager
+
+go to express js , in getting started , install js copy and pasted , and copy thiungs in getting startrd
+
+object relation maping = orm  - ue to map objects
+
+donwlonad mongo db
+after install 
+
+npm install mongoose --save
+
+
+
